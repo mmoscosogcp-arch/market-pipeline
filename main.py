@@ -1,6 +1,4 @@
 
-
-import pandas as pd
 from src.extract import extract_all
 from src.transform import transform
 from src.load import load
